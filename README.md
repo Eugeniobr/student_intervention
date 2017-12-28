@@ -11,7 +11,7 @@ This project requires **Python 2.7** and the following Python libraries installe
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org)
 - [scikit-learn](http://scikit-learn.org/stable/)
-
+- [iPython Notebook](http://ipython.org/notebook.html)
 ### Code
 
 Some code is provided by Udacity. Udacity students are asked to implement some additional functionalities.
