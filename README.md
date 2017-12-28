@@ -18,9 +18,8 @@ Some code is provided by Udacity. Udacity students are asked to implement some a
 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `student_intervention/` (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory `student_intervention/` (that contains this README) and run the following command:
 
 ```ipython notebook student_intervention.ipynb```  
-```jupyter notebook student_intervention.ipynb```
 
 This will open the iPython Notebook software and project file in your browser.
